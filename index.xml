@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home of mikepro</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Home of mikepro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jan 2022 19:20:29 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome! to the home of mikepro</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 18 Jan 2022 19:50:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hallo, Bonjour, Witam, Ciao, こんにちは, Hello and welcome.
+You have reached the personal site of github user mikepro otherwise known as Michael. A web developer and user of emacs.
+One of my main aims with this website is to introuduce emacs in a friendly and approcable way. Emacs has a fearsome reputation of having a step learning curve and being difficult to use. I can still remember the first time I opened up emacs (way back in 2001) and how overwhelemed I felt taking my first frustating steps, getting confused, getting anoyed with cryptic keyboard shortcuts and not understanding what I was doing.</description>
+    </item>
+    
+    <item>
+      <title>Content comming soon</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 18 Jan 2022 19:20:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Nothing to see here at the moment. I am working on adding some articles so come back soon.</description>
+    </item>
+    
+  </channel>
+</rss>
