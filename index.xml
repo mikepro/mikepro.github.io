@@ -6,7 +6,20 @@
     <description>Recent content on Home of mikepro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jan 2022 19:20:29 +0000</lastBuildDate><atom:link href="https://mikepro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 18:17:10 +0000</lastBuildDate><atom:link href="https://mikepro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comments via github</title>
+      <link>https://mikepro.github.io/news/comments-via-github/</link>
+      <pubDate>Tue, 25 Jan 2022 18:17:10 +0000</pubDate>
+      
+      <guid>https://mikepro.github.io/news/comments-via-github/</guid>
+      <description>It is now possible for you to add comments to this site via github issues and utterances.
+Once you have authorised utterances to comment on your behalf you will be able to comment on any piece of content on this site.
+Feel free to say hello below.
+Why all the fuss? This whole website has been generated using hugo. A static site generator.
+Hugo takes a series of articles and combines these with a set of HTML templates and produces HTML.</description>
+    </item>
+    
     <item>
       <title>Welcome! to the home of mikepro</title>
       <link>https://mikepro.github.io/about/</link>
@@ -15,11 +28,11 @@
       <guid>https://mikepro.github.io/about/</guid>
       <description>Hallo, Bonjour, Witam, Ciao, こんにちは, Hello and welcome.
 You have reached the personal site of github user mikepro otherwise known as Michael. A web developer and user of emacs.
-One of my main aims with this website is to introuduce emacs in a friendly and approcable way. Emacs has a fearsome reputation of having a step learning curve and being difficult to use. I can still remember the first time I opened up emacs (way back in 2001) and how overwhelemed I felt taking my first frustating steps, getting confused, getting anoyed with cryptic keyboard shortcuts and not understanding what I was doing.</description>
+One of my main aims with this website is to introduce emacs in a friendly and approachable way. Emacs has a fearsome reputation of having a step learning curve and being difficult to use. I can still remember the first time I opened up emacs (way back in 2001) and how overwhelmed I felt taking my first frustrating steps, getting confused, getting annoyed with cryptic keyboard shortcuts and not understanding what I was doing.</description>
     </item>
     
     <item>
-      <title>Content comming soon</title>
+      <title>Content coming soon</title>
       <link>https://mikepro.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 18 Jan 2022 19:20:29 +0000</pubDate>
       

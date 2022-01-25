@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Home of mikepro</title>
+    <link>https://mikepro.github.io/news/</link>
+    <description>Recent content in News on Home of mikepro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jan 2022 18:17:10 +0000</lastBuildDate><atom:link href="https://mikepro.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comments via github</title>
+      <link>https://mikepro.github.io/news/comments-via-github/</link>
+      <pubDate>Tue, 25 Jan 2022 18:17:10 +0000</pubDate>
+      
+      <guid>https://mikepro.github.io/news/comments-via-github/</guid>
+      <description>It is now possible for you to add comments to this site via github issues and utterances.
+Once you have authorised utterances to comment on your behalf you will be able to comment on any piece of content on this site.
+Feel free to say hello below.
+Why all the fuss? This whole website has been generated using hugo. A static site generator.
+Hugo takes a series of articles and combines these with a set of HTML templates and produces HTML.</description>
+    </item>
+    
+  </channel>
+</rss>
